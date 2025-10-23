@@ -41,6 +41,17 @@ local placements = {
         }
     },
     {
+        time = 50, unit = "unit_log_roller", slot = "1",
+        data = {
+            Valid = true,
+            PathIndex = 1,
+            Position = Vector3.new(-335.41595458984375, 61.93030548095703, -840.038330078125),
+            DistanceAlongPath = 235.30692172050476,
+            Rotation = 180,
+            CF = CFrame.new(-335.41595458984375, 61.93030548095703, -840.038330078125, -1, 0, 0, 0, 1, 0, 0, 0, -1)
+        }
+    },
+    {
         time = 66, unit = "unit_log_roller", slot = "1",
         data = {
             Valid = true,
