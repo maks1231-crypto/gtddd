@@ -173,7 +173,7 @@ local placements = {
         }
     },
     {
-        time = 115, unit = "unit_log_roller", slot = "1",
+        time = 114, unit = "unit_log_roller", slot = "1",
         data = {
             Valid = true,
             PathIndex = 1,
