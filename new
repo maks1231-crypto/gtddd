@@ -63,7 +63,7 @@ local placements = {
         }
     },
     {
-        time = 59, unit = "unit_log_roller", slot = "1",
+        time = 55, unit = "unit_log_roller", slot = "1",
         data = {
             Valid = true,
             PathIndex = 1,
@@ -74,7 +74,7 @@ local placements = {
         }
     },
     {
-        time = 60, unit = "unit_log_roller", slot = "1",
+        time = 56, unit = "unit_log_roller", slot = "1",
         data = {
             Valid = true,
             PathIndex = 1,
@@ -85,7 +85,7 @@ local placements = {
         }
     },
     {
-        time = 61, unit = "unit_log_roller", slot = "1",
+        time = 57, unit = "unit_log_roller", slot = "1",
         data = {
             Valid = true,
             PathIndex = 1,
